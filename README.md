@@ -12,8 +12,7 @@
 ## Corporate Elementes
 
 
-## ❞ ✢ 🖨
-Dos and Don'ts
+## Dos and Don'ts
 
 
 
