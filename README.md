@@ -1,7 +1,8 @@
 # CI
 
 ## Logo
-
+### Web
+### Print
 
 ## Corpotate Colors
 
