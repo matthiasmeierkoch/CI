@@ -1,8 +1,8 @@
 # CI
 
 ## Logo
-### Web
-### Print
+### Web (rgb)
+### Print (cmyk)
 
 ## Corpotate Colors
 
