@@ -5,12 +5,17 @@
 * Print (cmyk)
 
 ## Corpotate Colors
-
+* Orange
+* Grey
+* Light Grey
 
 ## Corporate Font
-
+* Trade Gothic
+* Trade Gothic Bold
+* Trade Gotic Oblique
 
 ## Corporate Elementes
+* Box
 
 
 ## Dos and Don'ts
