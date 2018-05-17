@@ -13,7 +13,7 @@ RGB: 245 R | 90 G | 14 B
 
 Hex: #f55a0e
 
-CMYK: 0 C | 78 M | 100 Y | 0 K
+CMYK: 0 C | 71 M | 100 Y | 0 K
 
 Pantone: Orange 166
 
