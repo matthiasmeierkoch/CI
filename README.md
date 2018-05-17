@@ -10,6 +10,14 @@
 ### Responsivelogo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.svg)
 
+## Corporate Elementes
+
+### Claimbox RGB
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.svg)
+
+### Claimbox CMYK
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
+
 ## Corpotate Colors
 ### Orange
 
@@ -28,7 +36,6 @@ Hex: #ebebeb
 
 CMYK: 9 C | 5 M | 5 Y | 4 K
 
-
 ### Grey
 RGB: 116 R | 118 G | 120 B
 
@@ -42,14 +49,3 @@ Pantone: Cool Grey 9
 * Trade Gothic
 * Trade Gothic Bold
 * Trade Gotic Oblique
-
-## Corporate Elementes
-
-### Claimbox RGB
-[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.svg)
-
-### Claimbox CMYK
-[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
-
-#### markdown cheatsheet:
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
