@@ -1,4 +1,4 @@
-##Logos
+## Logos
 #### Logo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.svg)
 
