@@ -1,25 +1,23 @@
-# CI / CD
-
-
-### Logo Web (rgb)
+##Logos
+#### Logo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.svg)
 
-### Logo Print (cmyk)
+#### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
-### Responsivelogo Web (rgb)
+#### Responsivelogo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.svg)
 
 ## Corporate Elementes
 
-### Claimbox RGB
+#### Claimbox RGB
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.svg)
 
-### Claimbox CMYK
+#### Claimbox CMYK
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
 
 ## Corpotate Colors
-### Orange
+#### Orange
 
 RGB: 245 R | 90 G | 14 B
 
@@ -29,14 +27,14 @@ CMYK: 0 C | 71 M | 100 Y | 0 K
 
 Pantone: Orange 166
 
-### Light Grey
+#### Light Grey
 RGB: 235 R | 235 G | 235 B
 
 Hex: #ebebeb
 
 CMYK: 9 C | 5 M | 5 Y | 4 K
 
-### Grey
+#### Grey
 RGB: 116 R | 118 G | 120 B
 
 Hex: #747678
