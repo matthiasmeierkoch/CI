@@ -18,11 +18,11 @@ CMYK: 0 C | 78 M | 100 Y | 0 K
 Pantone: Orange 166
 
 ### Light Grey
-##### RGB: 235 R | 235 G | 235 B
+RGB: 235 R | 235 G | 235 B
 
-##### Hex: #ebebeb
+Hex: #ebebeb
 
-##### CMYK: 9 C | 5 M | 5 Y | 4 K
+CMYK: 9 C | 5 M | 5 Y | 4 K
 
 
 ### Grey
@@ -41,7 +41,7 @@ Pantone: Cool Grey 9
 
 ## Corporate Elementes
 ### Box
-[ai]:https://github.com/matthiasmeierkoch/CI/blob/master/Logos/Claim/Claim_RGB.ai
+[ai](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/Claim/Claim_RGB.ai)
 
 
 
