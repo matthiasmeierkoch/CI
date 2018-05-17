@@ -1,9 +1,9 @@
 # CI / CD
 
 
-## Logo Web (rgb)
+### Logo Web (rgb)
 
-## Logo Print (cmyk)
+### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
 ## Corpotate Colors
