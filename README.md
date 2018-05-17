@@ -45,10 +45,11 @@ Pantone: Cool Grey 9
 
 ## Corporate Elementes
 
-### Box
-[ai](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/Claim/Claim_RGB.ai)
+### Claimbox RGB
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.svg)
 
-
+### Claimbox CMYK
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
 
 #### markdown cheatsheet:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
