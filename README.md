@@ -9,11 +9,11 @@
 ## Corpotate Colors
 ### Orange
 
-##### RGB: 245 R | 90 G | 14 B
+RGB: 245 R | 90 G | 14 B
 
-##### Hex: #f55a0e
+Hex: #f55a0e
 
-##### CMYK: 0 C | 78 M | 100 Y | 0 K
+CMYK: 0 C | 78 M | 100 Y | 0 K
 
 Pantone: Orange 166
 
@@ -26,13 +26,13 @@ Pantone: Orange 166
 
 
 ### Grey
-##### RGB: 116 R | 118 G | 120 B
+RGB: 116 R | 118 G | 120 B
 
-##### Hex: #747678
+Hex: #747678
 
-##### CMYK: 30 C | 23 M | 17 Y | 58 K
+CMYK: 30 C | 23 M | 17 Y | 58 K
 
-##### Pantone: Cool Grey 9 
+Pantone: Cool Grey 9 
 
 ## Corporate Font
 * Trade Gothic
