@@ -44,15 +44,6 @@ Pantone: Cool Grey 9
 [ai]: https://github.com/matthiasmeierkoch/CI/blob/master/Logos/Claim/Claim_RGB.ai
 
 
-## Dos and Don'ts
-
-
-
-
-
-
-
-
 
 #### markdown cheatsheet:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
