@@ -6,6 +6,9 @@
 ### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
+### Responsivelogo Web (rgb)
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.svg)
+
 ## Corpotate Colors
 ### Orange
 
@@ -40,6 +43,7 @@ Pantone: Cool Grey 9
 * Trade Gotic Oblique
 
 ## Corporate Elementes
+
 ### Box
 [ai](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/Claim/Claim_RGB.ai)
 
