@@ -1,16 +1,25 @@
 # Logos
+
+![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/internezzo_logo_rgb.png)
+
 ### Logo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_rgb.svg)
 
 ### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
+![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/symbol_rgb.png)
+
 ### Responsivelogo Web (rgb)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_rgb.svg)
+
 
 # Corporate Elementes
 
 ### Claimbox RGB
+
+![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/claim_rgb.png)
+
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_rgb.svg)
 
 ### Claimbox CMYK
