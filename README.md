@@ -22,7 +22,7 @@
 # Corporate Elementes
 
 ![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/claim_rgb.png)
----
+
 ### Claimbox RGB
 
 
