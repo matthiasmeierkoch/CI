@@ -44,6 +44,7 @@ Hex: #f55a0e
 CMYK: 0 C | 71 M | 100 Y | 0 K
 
 Pantone: Orange 166
+---
 
 ### Light Grey
 RGB: 235 R | 235 G | 235 B
@@ -51,6 +52,7 @@ RGB: 235 R | 235 G | 235 B
 Hex: #ebebeb
 
 CMYK: 9 C | 5 M | 5 Y | 4 K
+---
 
 ### Grey
 RGB: 116 R | 118 G | 120 B
