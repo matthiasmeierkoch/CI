@@ -8,7 +8,7 @@
 ### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
-# Symbol ####(Responsive Logo)
+# Symbol / Responsive Logo
 
 ![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/symbol_rgb.png)
 
@@ -19,6 +19,7 @@
 
 ### Symbol Print (cmyk)
 
+[eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_cmyk.svg)
 
 # Corporate Elementes
 
