@@ -34,7 +34,7 @@
 ### Claimbox CMYK
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
 
-# Corpotate Colors
+# Corpotate Colors - (Adobe sRGB IEC61966-2.1)
 ### Orange
 
 RGB: 245 R | 90 G | 14 B
