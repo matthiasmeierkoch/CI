@@ -1,4 +1,6 @@
-# Logo
+# internezzo ci / cd
+
+## Logo
 
 ![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/internezzo_logo_rgb.png)
 
@@ -8,7 +10,7 @@
 ### Logo Print (cmyk)
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/internezzo_logo_cmyk.svg)
 
-# Symbol / Responsive Logo
+## Symbol / Responsive Logo
 
 ![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/symbol_rgb.png)
 
@@ -20,8 +22,8 @@
 ### Symbol Print (cmyk)
 
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/symbol_cmyk.svg)
-
-# Corporate Elementes
+---
+## Corporate Elementes
 
 ![](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/claim_rgb.png)
 
@@ -33,8 +35,8 @@
 
 ### Claimbox CMYK
 [eps](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.eps) | [svg](https://github.com/matthiasmeierkoch/CI/blob/master/Logos/internezzo/claim_cmyk.svg)
-
-# Corpotate Colors - Adobe sRGB IEC61966-2.1
+---
+## Corpotate Colors - Adobe sRGB IEC61966-2.1
 ### Orange
 
 RGB: 245 R | 90 G | 14 B
@@ -63,8 +65,8 @@ Hex: #747678
 CMYK: 30 C | 23 M | 17 Y | 58 K
 
 Pantone: Cool Grey 9 
-
-# Corporate Font
+---
+## Corporate Font
 * Trade Gothic
 * Trade Gothic Bold
 * Trade Gotic Oblique
