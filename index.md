@@ -6,7 +6,7 @@ description: "Online CI/CD and brand assets for internezzo"
 permalink: /
 ---
 
-# Corporate Design and Corporate Identity
+# internezzo CD
 {: .fs-9 }
 
 Das ist eine Dokumentationsseite von internezzo AG, es enthält die wichtigsten informationen zum Corporate Design und zur Corporate Identity.
