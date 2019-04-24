@@ -14,7 +14,7 @@ Das ist das Corporate Design von internezzo AG, es enthält die wichtigsten info
 
 ---
 
-## Logo & Claim:
+## Logo:
 
 ![RGB Logo.png](https://github.com/matthiasmeierkoch/internezzo-ci-cd/blob/master/Logos/internezzo/internezzo_logo_rgb.png?raw=true)
 
